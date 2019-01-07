@@ -1,0 +1,16 @@
+x = 5;
+y = 2;
+addi  = x+y;
+subs  = x-y;
+mult = x*y;
+div  = x/y;
+mod  = x%y;
+expo = x**y;
+floordiv = x//y;
+print(f'Add {addi}');
+print(f'Sub {subs}');
+print(f'Mult {mult}');
+print(f'Div {div}');
+print(f'Mod {mod}');
+print(f'expo {expo}');
+print(f'Floor Div {floordiv}');
