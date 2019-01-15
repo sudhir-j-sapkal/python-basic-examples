@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 This is collection of basic Python Programs.<br />
 
-    **BEWARE**: This is a work in progress, like the book itself.
+    **BEWARE**: This is a work in progress.
     * Code here may change and disappear without warning. 
 
 #### How to use code
