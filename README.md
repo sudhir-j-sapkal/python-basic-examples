@@ -12,7 +12,7 @@ This is collection of basic Python Programs.<br />
 1. [Numbers](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/01PythonObjectDataStructure/01numbers.py)
 2. [Integer](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/01PythonObjectDataStructure/02Int.py)
 3. [Float](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/01PythonObjectDataStructure/03Float.py)
- 
+
 ##### 02. Strings
 1. [Basic String Declaration and Usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/02Strings/basic_string.py)
 2. [Indexing and Slicing of String](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/02Strings/indexing_slicing.py)
@@ -26,19 +26,19 @@ This is collection of basic Python Programs.<br />
 
 ##### 04. List
 1. [List Declaration and Method usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/04List/01List.py)
- 
+
 ##### 05. Tuple
-  1. [Tuple Declaration and Method usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/05Tuple/01Tuple.py)
- 
+1. [Tuple Declaration and Method usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/05Tuple/01Tuple.py)
+
 ##### 06. Sets
 1. [Sets Declaration and methods usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/06Sets/01Set.py)
-  
+
 ##### 07. Dictionaries
 1. [Declaration and Method Usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/07Dictionaries/01Dictionaries.py)
 
 ##### 08. File Handling
 1. [Basic File Handling](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/08Files/01File.py)
- 
+
 ##### 09. Comparision Operators
 1. [Chaining of Comparision Operators](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/09ComparisonOperators/chaining_comparision_operator.py)
 
