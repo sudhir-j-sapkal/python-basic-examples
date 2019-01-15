@@ -25,4 +25,26 @@ This is collection of basic Python Programs.<br />
 2. [Special Operators](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/03Operators/special_operator.py)
 
 ##### 04. List
-1. [Declaration and Usage and Methods of List](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/04List/01List.py)
+1. [List Declaration and Method usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/04List/01List.py)
+ 
+##### 05. Tuple
+  1. [Tuple Declaration and Method usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/05Tuple/01Tuple.py)
+ 
+##### 06. Sets
+1. [Sets Declaration and methods usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/06Sets/01Set.py)
+  
+##### 07. Dictionaries
+1. [Declaration and Method Usage](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/07Dictionaries/01Dictionaries.py)
+
+##### 08. File Handling
+1. [Basic File Handling](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/08Files/01File.py)
+ 
+##### 09. Comparision Operators
+1. [Chaining of Comparision Operators](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/09ComparisonOperators/chaining_comparision_operator.py)
+
+##### 10. Statments
+1. [If](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/10Statements/ifstatement.py)
+2. [elif](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/10Statements/elif.py)
+3. [else](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/10Statements/else.py)
+4. [shorthandifelse](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/10Statements/shorthandifelse.py)
+5. [Loops](https://github.com/sudhir-j-sapkal/python-basic-examples/blob/master/10Statements/loops.py)
