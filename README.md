@@ -1,4 +1,5 @@
 # Python Basic Programs
+![Python](https://github.com/sudhir-j-sapkal/python-basic-examples/stargazers)
 ![Python](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
 This is collection of basic Python Programs.<br />
